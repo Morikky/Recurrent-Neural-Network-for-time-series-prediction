@@ -9,4 +9,4 @@ Data exploration:
 
 
 Predictions:
-![img1](https://github.com/Morikky/Recurrent-Neural-Network-for-time-series-prediction/tree/main/Plots/Predictions.png)
+![img2](https://github.com/Morikky/Recurrent-Neural-Network-for-time-series-prediction/tree/main/Plots/Predictions.png)
