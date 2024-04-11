@@ -7,5 +7,7 @@ The data is from 45 different stores. 36 of them are used to train the model and
 Data exploration:
 ![img1](https://github.com/Morikky/Recurrent-Neural-Network-for-time-series-prediction/blob/main/Plots/explore_the_data.png)
 
+test test
+
 Predictions:
 ![img2](https://github.com/Morikky/Recurrent-Neural-Network-for-time-series-prediction/blob/main/Plots/Predictions.png)
