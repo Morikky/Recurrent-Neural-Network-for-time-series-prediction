@@ -4,13 +4,8 @@ It includes time series for multiple variables (e.g., sales, fuel price, unemplo
 The sales variable is predicted here. Prediction length is one data point (the last data point) using the 142 points before it.
 The data is from 45 different stores. 36 of them are used to train the model and 9 to validate the model.
 
-
-
 Data exploration:
 ![img1](https://github.com/Morikky/Recurrent-Neural-Network-for-time-series-prediction/blob/main/Plots/explore_the_data.png)
-
-/
-
 
 Predictions:
 ![img2](https://github.com/Morikky/Recurrent-Neural-Network-for-time-series-prediction/blob/main/Plots/Predictions.png)
